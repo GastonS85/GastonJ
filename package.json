@@ -1,0 +1,25 @@
+{
+  "name": "pre-entrega2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sass": "sass",
+    "sass:watch": "sass --watch sass/style.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GastonS85/Gaston-Silva.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GastonS85/Gaston-Silva/issues"
+  },
+  "homepage": "https://github.com/GastonS85/Gaston-Silva#readme",
+  "dependencies": {
+    "sass": "^1.58.0"
+  },
+  "devDependencies": {},
+  "description": ""
+}
